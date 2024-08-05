@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/kiranraj-b-2334a8239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiranraj-b-2334a8239/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24876361/kiran-raj-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24876361/kiran-raj-b" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/kiranraj_017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kiranraj_017/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/bkiranrheft/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bkiranrheft/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kiranraj017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bkiranrheft/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
