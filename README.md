@@ -57,5 +57,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<h3 align="left">GitHub Performance Overview 🚀</h3>
+<div align="left">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/kiranraj_017?ext=heatmap)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/kiranraj_017?ext=contest)
+  <img src="https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&show_icons=true&locale=en" alt="KIRANRAJ017" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&" alt="KIRANRAJ017" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KIRANRAJ017&show_icons=true&locale=en&layout=compact" alt="KIRANRAJ017" />
+</div>
 
 
