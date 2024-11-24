@@ -59,11 +59,15 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 <h3 align="left">Overview 🚀</h3>
 <div align="left">
-
+  
+  ![](https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&theme=react&hide_border=false)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRANRAJ017&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <h3>Leetcode</h3>
+  
   ![Leetcode Stats](https://leetcard.jacoblin.cool/kiranraj_017?theme=dark)
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=KIRANRAJ017&show_icons=true&locale=en&layout=compact" alt="KIRANRAJ017" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&show_icons=true&locale=en" alt="KIRANRAJ017" />
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&" alt="KIRANRAJ017" />
 </div>
 
 
