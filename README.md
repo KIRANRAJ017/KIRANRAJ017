@@ -62,7 +62,10 @@ You can click the Preview link to take a look at your changes.
   
   ![](https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&theme=react&hide_border=false&include_all_commits=false&count_private=false)
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&theme=react&hide_border=false)
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&theme=react&hide_border=true)
+
+  
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRANRAJ017&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <h3>Leetcode</h3>
