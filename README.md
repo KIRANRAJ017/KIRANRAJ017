@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; border: 1px solid black; padding: 0px;">
     <!-- First Row (4 images) -->
     <div>
-    <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" alt="100" style="height: 50px;  border: 1px solid black;" />
+    <img src="https://github.com/user-attachments/assets/0cee23c8-ce41-4b2a-9d64-ea8ad816bf46" alt="100" height="50" style="border: 1px solid black;" />
     <img src="https://github.com/user-attachments/assets/e1b6c2b9-1fa5-4688-8d11-f62bf02d3f1e" alt="365" style="height: 50px;  border: 1px solid black;" />
     <img src="https://github.com/user-attachments/assets/30c576e6-1472-49f2-b06e-ee5217a7f720" alt="2024" style="height: 50px; border: 1px solid black;" />
     <img src="https://github.com/user-attachments/assets/bbfdb7fd-b101-46cc-92d8-d44892266a81" alt="200" style="height: 50px;  border: 1px solid black;" />
