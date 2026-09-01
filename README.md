@@ -63,13 +63,13 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Overview 🚀</h3>
 <div align="center">
 
-  <div >
+<!--   <div >
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&theme=react&hide_border=true)
 
   </div>
 
-<!--  <table>
+ <table>
   <tr>
     <td> 
       <img src="https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200" />
