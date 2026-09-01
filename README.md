@@ -69,16 +69,16 @@ You can click the Preview link to take a look at your changes.
 
   </div>
 
-  <table>
+<!--  <table>
   <tr>
-    <td>
+    <td> 
       <img src="https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRANRAJ017&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
     </td>
   </tr>
-</table>
+</table> -->
 
   <h3>Leetcode</h3>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; border: 1px solid black; padding: 0px;">
