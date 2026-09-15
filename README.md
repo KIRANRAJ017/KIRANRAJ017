@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RiNWxlZGo1NDllMmhndWlsN3NzbTA1ejVqYWxpMmVyZzk0ejF5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif"  />
 
-- 👀 I’m interested in Web Development🌐 And Competitive programming🖥️ ...
-- 🌱 I’m currently learning MERN Stack Development ...
-- 🧑‍💼 I'm currently diving deep into Data Structures and Algorithms to strengthen my problem-solving skills.
-- 🧑‍💻 Building new projects
-- 💬 Ask me about technology, algorithms and web development
+- 👨‍💻 I like building products and figuring out how things work under the hood.
+- 🚀 Building AI-powered products and side projects from scratch.
+- ⚙️ Into backend, APIs, databases, and making systems work well together.
+- 🧠 Solving DSA problems and getting better at writing solid code.
+- 🛠️ Always experimenting with new ideas, tools, and better ways to build.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
