@@ -2,22 +2,19 @@
 KIRANRAJ017/KIRANRAJ017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- <div align="center">
-  <img
-    src="https://img.wolken.cz/userimages/component_print/2707/36007_ea9726c63c115b2f6e47872b4654c31f_large.jpg"
-    width="650"
-    alt="Pixel dinosaur"
-  />
-</div> -->
+<div align="center">
+  <img src="./1057290449999561193-removebg-preview.png" width="540" alt="Hi">
+</div>
 <h1 align="center">I'm  KIRAN RAJ<br/>
   <!-- <pre align="center" style="font-family: 'Courier New', monospace; background-color: black; color: white; padding: 0px; border-radius: 5px;"> -->
    <!-- < Developer Coder Creator /> -->
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=4F8CFF&center=true&vCenter=true&width=700&height=45&lines=building+products+people+actually+use;turning+ideas+into+working+software;learning+by+building+the+real+thing" alt="Typing animation"/>
 <!-- </pre>  -->
 </h1>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=1204.1204&left_text=Profile%20views"  /><br/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=1204.1204&left_text=Profile%20views"  /><br/><br/>
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RiNWxlZGo1NDllMmhndWlsN3NzbTA1ejVqYWxpMmVyZzk0ejF5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif"  />
+<!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RiNWxlZGo1NDllMmhndWlsN3NzbTA1ejVqYWxpMmVyZzk0ejF5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif"  /> -->
+
 
 - 👨‍💻 I like building products and figuring out how things work under the hood.
 - 🚀 Building AI-powered products and side projects from scratch.
@@ -25,14 +22,20 @@ You can click the Preview link to take a look at your changes.
 - 🧠 Solving DSA problems and getting better at writing solid code.
 - 🛠️ Always experimenting with new ideas, tools, and better ways to build.
 
-<h3 align="left">Connect with me:</h3>
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/kiranraj-b-2334a8239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiranraj-b-2334a8239/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/kiranraj_017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kiranraj_017/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/kiranraj017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bkiranrheft/" height="30" width="40" /></a>
 </p>
+<div align="left"> -->
 
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,mongodb,mysql,git,github&theme=dark" height="42" alt="Tech stack"/>
+
+<!-- </div>
 <h3 align="left">Languages and Tools:</h3>
 
 ###
@@ -65,6 +68,22 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div> -->
+<div align="left">
+<h3 align="left">Around the web</h3>
+<a href="https://www.linkedin.com/in/kiran-raj-b-2334a8239/">
+  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="32" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/kiranraj_017/">
+  <img src="https://img.shields.io/badge/LeetCode-161616?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="32" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/kiranraj017/">
+  <img src="https://img.shields.io/badge/GFG-161616?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="32" alt="GFG"/>
+</a>
+<a href="https://codeforces.com/profile/KIRANRAJ017">
+  <img src="https://img.shields.io/badge/Codeforces-161616?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" height="32" alt="Codeforces"/>
+</a>
+
 </div>
 <hr/>
 <h3 align="left">Overview 🚀</h3>
