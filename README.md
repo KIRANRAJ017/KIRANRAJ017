@@ -16,12 +16,105 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RiNWxlZGo1NDllMmhndWlsN3NzbTA1ejVqYWxpMmVyZzk0ejF5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif"  /> -->
 
 
-- 👨‍💻 I like building products and figuring out how things work under the hood.
-- 🚀 Building AI-powered products and side projects from scratch.
-- ⚙️ Into backend, APIs, databases, and making systems work well together.
-- 🧠 Solving DSA problems and getting better at writing solid code.
-- 🛠️ Always experimenting with new ideas, tools, and better ways to build.
+- 👨‍💻 I build software and products with a focus on real-world problems.
+- 🚀 I enjoy turning ideas into simple, useful products that people can actually use.
+- ⚙️ I’m interested in how products work beneath the surface systems, APIs, data, and architecture.
+- 🧠 I continuously sharpen my problem-solving through DSA, system design, and hands-on engineering.
+- 🛠️ I learn by building, shipping, and improving things along the way.
 
+<br/>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+<pre>
+┌──────────┐
+│ ░░    ░░ │
+│   ░░░░   │
+│ ░░    ░░ │
+└──────────┘
+</pre>
+
+<b>BUILD</b><br> <sub>assemble the idea</sub>
+
+</td>
+
+<td align="center" width="35">
+<br><br>→
+</td>
+
+<td align="center" width="180">
+
+<pre>
+┌──────────┐
+│ ████████ │
+│ ████████ │
+│    ↑     │
+└──────────┘
+</pre>
+
+<b>SHIP</b><br> <sub>put it out there</sub>
+
+</td>
+
+<td align="center" width="35">
+<br><br>→
+</td>
+
+<td align="center" width="180">
+
+<pre>
+┌──────────┐
+│ █  ◉  █ │
+│ ░  ◉  ░ │
+│ █  ◉  █ │
+└──────────┘
+</pre>
+
+<b>LEARN</b><br> <sub>listen and observe</sub>
+
+</td>
+
+<td align="center" width="35">
+<br><br>→
+</td>
+
+<td align="center" width="180">
+
+<pre>
+┌──────────┐
+│ ████████ │
+│ ██  ████ │
+│ ████████ │
+└──────────┘
+</pre>
+
+<b>IMPROVE</b><br> <sub>build the next version</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+</div><br/>
+<h3 align="left">Currently Building</h3>
+
+<div align="left">
+
+<pre>
+01  workflow-ai        AI-powered workspace
+02  flow-ai            Marketing automation
+03  developer tools    Small tools, real problems
+</pre>
+
+</div><br/>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <div align="left"> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,mongodb,mysql,git,github&theme=dark" height="42" alt="Tech stack"/>
 
 <!-- </div>
@@ -84,53 +177,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Codeforces-161616?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" height="32" alt="Codeforces"/>
 </a>
 
-</div>
-<hr/>
-<h3 align="left">Overview 🚀</h3>
-<div align="center">
 
-<!--   <div >
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=KIRANRAJ017&theme=react&hide_border=true)
-
-  </div>
-
- <table>
-  <tr>
-    <td> 
-      <img src="https://github-readme-stats.vercel.app/api?username=KIRANRAJ017&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRANRAJ017&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
-    </td>
-  </tr>
-</table> -->
-
-  <h3>Leetcode</h3>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; border: 1px solid black; padding: 0px;">
-  <!-- LeetCode Stats Section -->
-  <img src="https://leetcard.jacoblin.cool/kiranraj_017?theme=dark" alt="Leetcode Stats" style="border: 1px solid black; padding: 0px; align: left;/>
-
-  <!-- Images Section -->
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; border: 1px solid black; padding: 0px;">
-    <!-- First Row (4 images) -->
-    <div>
-    <img src="https://github.com/user-attachments/assets/c6f0fa07-a25b-4f10-b41e-45390ecbc5b6" alt="500_new" style="height: 50px;  border: 1px solid black;" />
-    <img src="https://github.com/user-attachments/assets/e1b6c2b9-1fa5-4688-8d11-f62bf02d3f1e" alt="365" style="height: 50px;  border: 1px solid black;" />
-    <img src="https://github.com/user-attachments/assets/30c576e6-1472-49f2-b06e-ee5217a7f720" alt="2024" style="height: 50px; border: 1px solid black;" />
-    <img src="https://github.com/user-attachments/assets/bbfdb7fd-b101-46cc-92d8-d44892266a81" alt="200" style="height: 50px;  border: 1px solid black;" />
-    </div>
-    <!-- Second Row (remaining images) -->
-    <div>
-    <img src="https://github.com/user-attachments/assets/0cee23c8-ce41-4b2a-9d64-ea8ad816bf46" alt="100" style="height: 50px;  border: 1px solid black;" />
-    <img src="https://github.com/user-attachments/assets/cad23a74-96b6-41dd-9ec4-4bfa05707d62" alt="50" style="height: 50px;  border: 1px solid black;" />
-    <img src="https://github.com/user-attachments/assets/c4cf8dbd-96f7-46fc-93d1-f205d8fbaaa5" alt="1001" style="height: 50px;  border: 1px solid black;" />
-    <img src="https://github.com/user-attachments/assets/99195d5b-30a3-49b4-8fac-59048c3a641b" alt="501" style="height: 50px;  border: 1px solid black;" />
-    </div>
-  </div>
-</div>
-
-
+<!-- <hr/> -->
 
 </div>
 
