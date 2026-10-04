@@ -176,9 +176,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://codeforces.com/profile/KIRANRAJ017">
   <img src="https://img.shields.io/badge/Codeforces-161616?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" height="32" alt="Codeforces"/>
 </a>
+  <hr/>
 
+ <div align="center">
+  <img src="./animation.gif" width="840" alt="GIF">
+</div>
 
-<!-- <hr/> -->
 
 </div>
 
