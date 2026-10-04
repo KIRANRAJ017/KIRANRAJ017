@@ -3,7 +3,7 @@ KIRANRAJ017/KIRANRAJ017 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <img src="./1057290449999561193-removebg-preview.png" width="540" alt="Hi">
+  <img src="./pixel_image.png" width="540" alt="Hi">
 </div>
 <h1 align="center">I'm  KIRAN RAJ<br/>
   <!-- <pre align="center" style="font-family: 'Courier New', monospace; background-color: black; color: white; padding: 0px; border-radius: 5px;"> -->
