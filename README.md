@@ -2,10 +2,18 @@
 KIRANRAJ017/KIRANRAJ017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">👋, I'm  KIRANRAJ ! <br/>
-  <pre align="center" style="font-family: 'Courier New', monospace; background-color: black; color: white; padding: 10px; border-radius: 5px;">
-    < Developer Coder Creator />
-</pre> 
+<!-- <div align="center">
+  <img
+    src="https://img.wolken.cz/userimages/component_print/2707/36007_ea9726c63c115b2f6e47872b4654c31f_large.jpg"
+    width="650"
+    alt="Pixel dinosaur"
+  />
+</div> -->
+<h1 align="center">I'm  KIRAN RAJ<br/>
+  <!-- <pre align="center" style="font-family: 'Courier New', monospace; background-color: black; color: white; padding: 0px; border-radius: 5px;"> -->
+   <!-- < Developer Coder Creator /> -->
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=4F8CFF&center=true&vCenter=true&width=700&height=45&lines=building+products+people+actually+use;turning+ideas+into+working+software;learning+by+building+the+real+thing" alt="Typing animation"/>
+<!-- </pre>  -->
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=1204.1204&left_text=Profile%20views"  /><br/>
 
